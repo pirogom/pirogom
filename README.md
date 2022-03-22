@@ -1,13 +1,1 @@
-About 피로곰(Pirogom)
-
-모두의 프린터, PDF, 리모트, 플러그, 자막.. 등등 만든 그놈 .. A.K.A 모프 만든놈
-
-주로 Go언어 관련해서 모두의 무언가들에 쓰이는 것들에 대해서 올림 ..
-
-남들 위함이 아님 내가 쓰려고 올림 ..
-
-라이선스는 각 프로젝트별로 고지
-
-딴지는 사절
-
-https://modu-print.tistory.com
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pirogom&show_icons=true&theme=radical)
