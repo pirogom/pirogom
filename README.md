@@ -27,3 +27,10 @@
 
 ![MIPS](https://img.shields.io/badge/ARCH-MIPS-green)
 ![POWERPC](https://img.shields.io/badge/ARCH-POWERPC-green)
+
+![BASIC](https://img.shields.io/badge/SINCE_1987-BASIC-red)
+![C](https://img.shields.io/badge/SINCE_1989-C/C++-red)
+![ASM](https://img.shields.io/badge/SINCE_1991-ASM-red)
+![GO](https://img.shields.io/badge/SINCE_2009-GO-red)
+
+
