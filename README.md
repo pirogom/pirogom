@@ -4,7 +4,7 @@
 
 주로 C/C++, Go, Java 등을 다룹니다.
 
-[피로곰's 모두의프린터 홈페이지](https://modu-print.tistory.com/)
+[피로곰's 모두의프린터 홈페이지](https://modu-print.com/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pirogom&show_icons=true&theme=vue)
 
